@@ -1,0 +1,24 @@
+@import '../common';
+
+
+.button {
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  width: 11.85rem;
+  height: 3rem;
+  margin-top: 2.3rem;
+  border: 1px solid $primary;
+
+  &:hover {
+    background: $primary;
+    span {
+      color: #1d1d25;
+    }
+  }
+
+  span {
+    font-weight: 400;
+    color: $primary;
+  }
+}
