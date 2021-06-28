@@ -158,15 +158,20 @@ $sidebar-width: 60px;
     align-content: center;
     justify-content: center;
 
-    .caution-container {
+    .download-container {
       display: grid;
 
-      .caution {
-        fill: orange;
+      .download {
+        fill: rgb(27, 143, 40);
         margin: auto;
         width: 80px;
+        transition-duration: 0.25s;
+        cursor: pointer;
       }
 
+      .download:hover {
+        fill: rgb(44, 255, 68);
+      }
       p {
         text-align: center;
 

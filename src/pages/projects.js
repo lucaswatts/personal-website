@@ -4,7 +4,7 @@ import Layout from "../components/layout";
 const IndexPage = () => (
   <Layout>
     <div className='left'>
-      <h1>Work.</h1>
+      <h1>Projects.</h1>
     </div>
     <div className='right'>
     </div>

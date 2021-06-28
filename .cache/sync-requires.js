@@ -11,6 +11,6 @@ exports.components = {
   "component---src-pages-contact-js": hot(preferDefault(require("/Users/lucaswatts/Desktop/personal-website/personal-website/src/pages/contact.js"))),
   "component---src-pages-index-js": hot(preferDefault(require("/Users/lucaswatts/Desktop/personal-website/personal-website/src/pages/index.js"))),
   "component---src-pages-skills-js": hot(preferDefault(require("/Users/lucaswatts/Desktop/personal-website/personal-website/src/pages/skills.js"))),
-  "component---src-pages-work-js": hot(preferDefault(require("/Users/lucaswatts/Desktop/personal-website/personal-website/src/pages/work.js")))
+  "component---src-pages-projects-js": hot(preferDefault(require("/Users/lucaswatts/Desktop/personal-website/personal-website/src/pages/projects.js")))
 }
 

@@ -48,8 +48,8 @@ const Sidebar = ({ siteTitle, location, toggleTerminal, terminalActive }) => {
           <About className={`icon ${active === 'about' && 'active'}`}/>
         </Link>
         
-        <Link className='icon-container' to="/work/">
-          <Work className={`icon ${active === 'work' && 'active'}`}/>
+        <Link className='icon-container' to="/projects/">
+          <Work className={`icon ${active === 'projects' && 'active'}`}/>
         </Link>
         
         {/* <Link className='icon-container' to="/contact/">
