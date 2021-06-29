@@ -7,7 +7,7 @@ import Download from '../icons/download.svg';
 
 function downloadResume() {
   console.log('trying to download resume');
-  window.open('../PDFs/Wine Label - Lucas.pdf');
+  window.open('https://doc-08-24-apps-viewer.googleusercontent.com/viewer/secure/pdf/802b8psnvms3emf7ou5f97p872irlu4h/kbhhkdog2lg2dmrvijsv273e4n1ejmr2/1624856925000/drive/18173695216242089039/ACFrOgAy-tB5gKXbN9ZlNNpHRnAIO4McrLy419GB_ZOw1WIVSb9fVnRlzxoku1GMmArSi4hzX69j5WY_szOuL1eR_PvXccvRVYUyCp8jRPTNyuoNkLQCMPkUZgKE6Wj3iYETZIvGX0HjitLtTRTv?print=true&nonce=bb4d5rboegosi&user=18173695216242089039&hash=nmtq5ag5pb1mniln42mk2oqcqra3knto');
 }
 
 const IndexPage = () => (

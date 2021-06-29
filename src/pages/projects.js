@@ -7,6 +7,7 @@ const IndexPage = () => (
       <h1>Projects.</h1>
     </div>
     <div className='right'>
+      <iframe src="https://friendly-ardinghelli-55203a.netlify.app/"></iframe>
     </div>
   </Layout>
 );

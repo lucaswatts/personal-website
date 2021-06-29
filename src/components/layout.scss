@@ -162,7 +162,7 @@ $sidebar-width: 60px;
       display: grid;
 
       .download {
-        fill: rgb(27, 143, 40);
+        fill: #fd2d53a1;
         margin: auto;
         width: 80px;
         transition-duration: 0.25s;
@@ -170,7 +170,7 @@ $sidebar-width: 60px;
       }
 
       .download:hover {
-        fill: rgb(44, 255, 68);
+        fill: #fd2d52;
       }
       p {
         text-align: center;
