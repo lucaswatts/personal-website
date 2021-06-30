@@ -162,7 +162,7 @@ $sidebar-width: 60px;
       display: grid;
 
       .download {
-        fill: #fd2d53a1;
+        fill: #886b70a1;
         margin: auto;
         width: 80px;
         transition-duration: 0.25s;
@@ -294,4 +294,26 @@ a, p {
 
 
   }
+}
+
+#projectsTitle {
+  margin-top: 25px;
+  margin-left: 50px;
+}
+
+.projectDescription {
+  margin-top: 10px;
+}
+
+#geoGuesser {
+  width: 400px;
+  margin-top: 50px;
+}
+
+.projectContainer {
+  margin-left: 50px;
+}
+
+.projectLink {
+  color: #fd2d52;
 }
