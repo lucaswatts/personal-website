@@ -308,10 +308,17 @@ a, p {
 #geoGuesser {
   width: 400px;
   margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  border: 0px;
 }
 
 .projectContainer {
   margin-left: 50px;
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .projectLink {

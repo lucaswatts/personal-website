@@ -83,8 +83,11 @@ class Terminal extends React.Component  {
           <div></div>
         </div>
         <ul id='terminal-body'>
-         <li><span style={{ color: '#fd2d52' }}>lucas@website</span>:$</li>
-         <li><span>Feature Coming Soon...</span></li>
+         <li><span style={{ color: '#fd2d52' }}>lucas@contact-info</span>:$</li>
+         <li><span>% ls</span></li>
+         <li><span>Lucas Watts</span></li>
+         <li><span>(613) 614-0035</span></li>
+         <li><span>lucaswatts41@gmail.com</span></li>
           { 
             [...Array(17)].map((_, index) => <li key={index}></li>)
           }
